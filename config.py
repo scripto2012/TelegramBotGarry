@@ -1,2 +1,2 @@
 
-TOKEN = '' # tg bot token
+TOKEN = '1' # tg bot token
