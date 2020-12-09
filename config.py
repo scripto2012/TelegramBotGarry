@@ -1,0 +1,2 @@
+
+TOKEN = '' # tg bot token
